@@ -1,0 +1,4 @@
+node_modules
+pgadmin4
+# Keep environment variables out of version control
+.env
